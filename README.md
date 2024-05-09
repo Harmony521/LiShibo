@@ -1,5 +1,5 @@
 <p align="center"><img src="./images/logo.png" alt=""></p>
-<h1 align="center">量子计算🌌</h1>
+<h1 align="center">基于Grover量子搜索算法的布尔方程组求解🌌</h1>
 <p align="center">使用Grover算法解决布尔方程组.</p>
 
 
